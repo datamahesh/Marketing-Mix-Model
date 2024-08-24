@@ -1,1 +1,1 @@
-# Marketing-Mix-Model
+# Regression-Project-Marketing-Mix-Models
